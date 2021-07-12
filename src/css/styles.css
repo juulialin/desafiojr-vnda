@@ -772,7 +772,7 @@ body {
   .description {
     padding-top: 30px;
     padding-left: 20px;
-    width: 100%;
+    width: 90%;
   }
 
   .content {
@@ -801,7 +801,7 @@ body {
   }
 
   .firstSmallBanner {
-    margin-left: 140px;
+    margin-left: 130px;
     margin-top: 50px;
     height: 300px;
     width: 240px;
@@ -845,7 +845,7 @@ body {
   }
 
   .thirdSmallBanner {
-    margin-left: 160px;
+    margin-left: 140px;
     margin-top: 110px;
     height: 300px;
     width: 240px;
@@ -873,7 +873,7 @@ body {
     margin-top: 20px;
     margin-left: 15px;
     height: 350px;
-    width: 350px;
+    width: 330px;
     font-family: PT Sans, serif;
   }
 
@@ -908,7 +908,7 @@ body {
     margin-top: 30px;
     margin-left: 30px;
     height: auto;
-    width: 70%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -973,8 +973,8 @@ body {
 
   .menuFooter {
     margin-top: 30px;
-    margin-left: 20px;
-    width: 300px;
+    margin-left: 40px;
+    width: 80%;
     font-family: PT Sans, serif;
     font-size: 20px;
     display: flex;
@@ -997,7 +997,7 @@ body {
     color: #343a40;
     text-decoration: none;
     font-family: PT Sans, serif;
-    padding-right: 40px;
+    padding-right: 20px;
     padding-bottom: 40px;
   }
 
@@ -1008,8 +1008,8 @@ body {
 
   .email {
     margin-top: 30px;
-    margin-left: 20px;
-    width: 380px;
+    margin-left: 40px;
+    width: 80%;
     font-family: PT Sans, serif;
     font-size: 20px;
     display: flex;
@@ -1050,8 +1050,8 @@ body {
 
   .secondMenuFooter {
     margin-top: 30px;
-    margin-left: 20px;
-    width: 100%;
+    margin-left: 40px;
+    width: 80%;
     font-family: PT Sans, serif;
     font-size: 20px;
     display: flex;
@@ -1062,8 +1062,6 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: left;
-    justify-content: space-between;
     padding-top: 30px;
     height: 40px;
     font-family: PT Sans, serif;
@@ -1087,7 +1085,7 @@ body {
   .subfooter {
     margin-top: 30px;
     margin-bottom: 20px;
-    width: 100%;
+    width: 90%;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -1096,10 +1094,22 @@ body {
   }
 
   .instagram {
-    padding-left: 50px;
+    padding-left: 25px;
   }
 
   .facebook {
     padding-left: 30px;
+  }
+
+  .subfooter {
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: PT Sans, serif;
+    font-size: 13px;
   }
 }
